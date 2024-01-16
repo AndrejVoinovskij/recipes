@@ -1,0 +1,24 @@
+.center-cropped {
+    width: auto;
+    height: 400px;
+    overflow: hidden;
+}
+
+.center-cropped img {
+    height: auto;
+    width: 100%;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%) translateY(-20%);
+
+}
+
+.card-info span {
+    font-size: 15px;
+    font-weight: 700;
+    color: #046e1b;
+}
+
+.linkToVideo a{
+    color: #f79f1a
+}
